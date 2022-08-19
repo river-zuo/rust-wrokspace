@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "a"
+version = "0.1.0"
+
+[[package]]
 name = "add_one"
 version = "0.1.0"
 dependencies = [
@@ -18,6 +22,10 @@ dependencies = [
 
 [[package]]
 name = "ano_bin"
+version = "0.1.0"
+
+[[package]]
+name = "b"
 version = "0.1.0"
 
 [[package]]
